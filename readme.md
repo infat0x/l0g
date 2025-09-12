@@ -13,7 +13,7 @@ password: salam123
 ```
 
 ## 📺 Usage Video
-[![Usage Demo](https://img.youtube.com/vi/nCyLXXgXqCw/0.jpg)](https://youtu.be/nCyLXXgXqCw)
+[![Usage Demo](https://img.youtube.com/vi/Wd4Sx5E9gqE/0.jpg)](https://youtu.be/Wd4Sx5E9gqE)
 
 ---
 
