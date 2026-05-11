@@ -1,6 +1,6 @@
 # Log Analysis CTI 🔍
 
-> ⚡ **Cyber Threat Intelligence Tool** for log analysis and IP reputation checking
+>  **Cyber Threat Intelligence Tool** for log analysis and IP reputation checking
 
 [![GitHub](https://img.shields.io/badge/GitHub-infat0x%2Fl0g-blue?style=flat-square&logo=github)](https://github.com/infat0x/l0g)
 [![Python](https://img.shields.io/badge/Python-3.8+-green?style=flat-square&logo=python)](https://python.org)
@@ -12,22 +12,22 @@ user: test
 password: salam123
 ```
 
-## 📺 Usage Video
+##  Usage Video
 [![Usage Demo](https://img.youtube.com/vi/Wd4Sx5E9gqE/0.jpg)](https://youtu.be/Wd4Sx5E9gqE)
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔍 **Log Parsing**: Apache/Nginx combined, JSON Lines/Array, CSV/TSV
-- 📊 **Traffic Analysis**: per‑IP counters, HTTP methods/statuses, top paths
-- 🛡️ **CTI Enrichment**: VirusTotal + AbuseIPDB integration
-- 👤 **Multi-user Support**: Per‑user API tokens and settings
-- 🖱️ **Interactive UI**: Click any IP for detailed threat intelligence
-- 📚 **History**: View old lookups and reuse cached results
-- 📄 **Reports**: Export Markdown/HTML/TXT/PDF reports
-- 🔒 **Secure**: API keys stored per-user in database
-- 🎨 **Modern GUI**: Dark theme with intuitive interface
+-  **Log Parsing**: Apache/Nginx combined, JSON Lines/Array, CSV/TSV
+-  **Traffic Analysis**: per‑IP counters, HTTP methods/statuses, top paths
+-  **CTI Enrichment**: VirusTotal + AbuseIPDB integration
+-  **Multi-user Support**: Per‑user API tokens and settings
+-  **Interactive UI**: Click any IP for detailed threat intelligence
+-  **History**: View old lookups and reuse cached results
+-  **Reports**: Export Markdown/HTML/TXT/PDF reports
+-  **Secure**: API keys stored per-user in database
+-  **Modern GUI**: Dark theme with intuitive interface
 
 ---
 
@@ -70,7 +70,7 @@ C:\Users\Student\Desktop\log_analysis_cti
 ---
 
 
-## 🚀 Installation & Quick Start
+##  Installation & Quick Start
 
 ### Option A — Download EXE (Recommended) ✅
 1. Go to [Releases](https://github.com/infat0x/l0g/releases)
@@ -100,7 +100,7 @@ python -m src.log_analysis_cti.main <log_file_path>
 ## 3) Quick start (Windows)
 > **Preferred:** Run the **EXE** build.
 
-### Option A — Run the packaged EXE ✅
+### Option A — Run the packaged EXE 
 1. Double‑click:
    ```
    C:\Users\Student\Desktop\log_analysis_cti\out\dist\LogAnalysisCTI.exe
@@ -126,7 +126,7 @@ python -m log_analysis_cti.main <log_file_path>
 
 ---
 
-## 🔑 API Configuration
+##  API Configuration
 
 ### Method 1: In-App Settings (Recommended)
 1. Run the application
@@ -183,7 +183,7 @@ python .\scripts\packaging\build_exe.py
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -193,19 +193,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔒 Security
+##  Security
 
 - Keep `.env` private
 - Do not share API tokens in screenshots
 - Respect VirusTotal/AbuseIPDB usage policies
 - Report security issues privately
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/infat0x/l0g/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/infat0x/l0g/discussions)
 
