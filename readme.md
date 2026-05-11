@@ -72,7 +72,7 @@ C:\Users\Student\Desktop\log_analysis_cti
 
 ##  Installation & Quick Start
 
-### Option A — Download EXE (Recommended) ✅
+### Option A — Download EXE (Recommended) 
 1. Go to [Releases](https://github.com/infat0x/l0g/releases)
 2. Download `LogAnalysisCTI.exe` from the latest release
 3. Run the executable
