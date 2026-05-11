@@ -1,4 +1,4 @@
-# Log Analysis CTI 🔍
+# Log Analysis CTI 
 
 >  **Cyber Threat Intelligence Tool** for log analysis and IP reputation checking
 
